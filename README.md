@@ -3,6 +3,17 @@ Reference the slides [here](https://www.canva.com/design/DAF90PWKKUA/9Iq7PBZXjXR
 
 [Godbolt, an online explorer for compiler outputs](https://godbolt.org/)
 
+The [Rust book](https://doc.rust-lang.org/book/), a go-to online resource for learning Rust
+
+YT channels to get rust pilled:
+
+https://www.youtube.com/@ThePrimeTimeagen
+
+https://www.youtube.com/@letsgetrusty
+
+https://www.youtube.com/@svelterust
+
+
 # Setup
 
 Go to https://www.rust-lang.org/tools/install and follow the instructions, or:
@@ -19,6 +30,8 @@ Install [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust
 In directory, run `cargo init [--bin/--lib] <project name>`
 
 Use the VSCode extension or `cargo run` to build and run the project
+
+`cargo build` to create an executable
 
 
 # Exercise
