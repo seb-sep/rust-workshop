@@ -23,11 +23,14 @@ Use the VSCode extension or `cargo run` to build and run the project
 
 # Exercise
 
-You'll be implementing a simple version of `grep`: a command-line tool which takes in two arguments, the path of the file to search and the word to look for in the file. Create a new binary project 
+You'll be implementing a simple version of `grep`: a command-line tool which takes in two arguments, the word to look for in the file and the path of the file to search. Create a new binary project 
 and fill it in with the following steps:
 
 - Extract the two command line arguments into a file path and a word
 - Open the file and read it into a string
 - Print each line of the file which contains the given word
+
+Extension: When finished, modify the program to take in an arbitrary number of files to search through
+
 
 

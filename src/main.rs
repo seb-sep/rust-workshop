@@ -1,5 +1,6 @@
 mod enums;
 mod iterators;
+mod handling;
 
 fn main() {
     let s1 = String::from("hello");
